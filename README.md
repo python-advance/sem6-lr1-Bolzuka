@@ -31,4 +31,4 @@ S - 644
 Женское - Anna
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Скрин")
+![alt text](https://github.com/python-advance/sem6-lr1-Bolzuka/blob/master/Снимок%20экрана%202019-04-18%20в%2010.15.34.png "Скрин")
